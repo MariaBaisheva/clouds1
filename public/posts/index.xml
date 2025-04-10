@@ -16,18 +16,18 @@
       <description></description>
     </item>
     <item>
-      <title>My Second Post</title>
+      <title>Война и мир</title>
       <link>http://localhost:1313/posts/my-second-post/</link>
       <pubDate>Thu, 10 Apr 2025 18:49:43 +0900</pubDate>
       <guid>http://localhost:1313/posts/my-second-post/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;strong&gt;Война и мир&lt;/strong&gt; -  роман-эпопея Льва Николаевича Толстого, описывающий русское общество в эпоху войн против Наполеона в 1805—1812 годах. Эпилог романа доводит повествование до 1820 года.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>My First Post</title>
+      <title>Война и мир</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Thu, 10 Apr 2025 18:49:29 +0900</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;strong&gt;Война и мир&lt;/strong&gt; -  роман-эпопея Льва Николаевича Толстого, описывающий русское общество в эпоху войн против Наполеона в 1805—1812 годах. Эпилог романа доводит повествование до 1820 года.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
